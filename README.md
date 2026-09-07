@@ -22,7 +22,10 @@ This profile is where I document the things I'm learning, the projects I'm build
 
 
 ### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="https://i.postimg.cc/q7mQ01NN/Screenshot-2026-09-07-at-7-04-18-PM.png" width="800">
+</p>
 
 
 ---
