@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 About Me
+# About Me:
+About Me
 I'm a Computer Science student and builder interested in AI, Machine Learning, Full-Stack Development, and Automation.
 <br>
 I enjoy turning ideas into real, usable products and solving problems by breaking them down into simpler, smarter solutions.
@@ -8,7 +8,7 @@ Currently exploring AI-powered applications, recommendation systems, and intelli
 <br>
 Build → Break → Learn → Build Better.
 <br>
-📌 This profile is where I document the things I'm learning, the projects I'm building, and the experiments I'm working on.
+This profile is where I document the things I'm learning, the projects I'm building, and the experiments I'm working on.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwaswarup-rath) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwaswarup.756@gmail.com) 
@@ -28,4 +28,3 @@ Build → Break → Learn → Build Better.
 ---
 [![](https://komarev.com/ghpvc/?username=vishwaswarup&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
