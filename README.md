@@ -9,6 +9,10 @@ Currently exploring AI-powered applications, recommendation systems, and intelli
 Build → Break → Learn → Build Better.
 <br>
 This profile is where I document the things I'm learning, the projects I'm building, and the experiments I'm working on.
+<br>
+#REACH ME:
+email : vishwaswarup.756@gmail.com
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwaswarup-rath) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwaswarup.756@gmail.com) 
