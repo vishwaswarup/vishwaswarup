@@ -1,5 +1,5 @@
 # About Me:
-About Me
+
 I'm a Computer Science student and builder interested in AI, Machine Learning, Full-Stack Development, and Automation.
 <br>
 I enjoy turning ideas into real, usable products and solving problems by breaking them down into simpler, smarter solutions.
