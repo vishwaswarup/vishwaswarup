@@ -13,6 +13,7 @@ This profile is where I document the things I'm learning, the projects I'm build
 # REACH ME:
 email : vishwaswarup.756@gmail.com <br>
 my website : https://vishwaswarup.vercel.app/
+LinkedIn : https://www.linkedin.com/in/vishwaswarup-rath/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwaswarup-rath) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwaswarup.756@gmail.com) 
